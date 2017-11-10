@@ -2,22 +2,19 @@ title: Swirledup
 subtitle: My take on Diy's,Thoughts, and ideas
 cover_image: https://images.unsplash.com/photo-1441803293480-6d6c52f377d9?auto=format&fit=crop&w=1050&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D
 
-author:
+author: Nesa Shamdasani
   profile_image:
   url: "/"
   name:Nesa Shamdasani
-  bio: Welcome to my blog!I am a 11 year old swirler. Join me in my adventure through this totaly swirled up world. 
-  So, what are we waiting for,  let's get swirled!
+  bio: Welecome! I am so excited to see you. I hope you enjoy my diy's, thoughts on different opinions, and ideas. 
 
-email: your-email@domain.com
+email: nesaprincess@gmail.com 
 
 description: > # this means to ignore newlines until the next setting
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a 11 year old swirler. Join me in my adventure through this totaly swirled up world. 
+  Comment and give feedback as you look though my world.  
+  So, what are we waiting for,  let's get swirled!
 
-twitter_username: jekyllrb
-github_username:  jekyll
 
 permalink: /:year/:month/:title/
 
