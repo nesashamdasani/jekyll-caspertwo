@@ -34,7 +34,6 @@ defaults:
 
 # Build settings
 markdown: kramdown
-theme: caspertwo
 exclude:
   - Gemfile
   - Gemfile.lock
