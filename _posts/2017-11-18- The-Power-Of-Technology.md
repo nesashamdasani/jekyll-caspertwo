@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Power Of Technology"
 tags:
