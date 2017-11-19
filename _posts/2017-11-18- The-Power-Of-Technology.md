@@ -5,8 +5,6 @@ tags:
   - "Is technology good or bad? (from an 11 year old's perspective)"
 feature_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1050&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D"
 ---
-Do remember though, this is *not* secure authentication. You shouldn't rely on this feature for protecting important private data. It's just a simple, shared pass-phrase for very basic privacy.
-
 We all know that the future is here but, that's not all we have in store. This gereation is yes,more gluded to their electronics
 but, the results that come out of it is fantastic. Our world has massivly changed throughout the years. 
 That's all thanks to technology.
